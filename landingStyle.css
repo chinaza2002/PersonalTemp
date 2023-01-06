@@ -1,6 +1,10 @@
 *{
   box-sizing: border-box;
-  font-family:  sans-serif
+  font-family:  sans-serif;
+}
+
+body{
+  background-color: rgba(249, 249, 249, 0.673);
 }
 
 CSS.mb-6 {
