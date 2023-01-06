@@ -270,3 +270,9 @@ CSS.mb-6 {
 #cardImg{
   height: 400px;
 }
+
+@media(min-width: 300px){
+  #inner{
+    width: 18rem;
+  }
+}
